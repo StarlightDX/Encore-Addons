@@ -1,2 +1,2 @@
-## Sonic Unleashed: Encore 
-- Beta Builds
+## Encore HUD
+- Added Boost Bar
